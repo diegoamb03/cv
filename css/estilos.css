@@ -1,0 +1,32 @@
+
+
+
+.contenedor {
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+  overflow: hidden; }
+
+/* ----- -----  ----- ----- */
+ 
+   
+     
+
+/* ----- ----- main2 ----- ----- */
+.main2 .contenedor {
+  overflow: visible; }
+.main2 .acerca-de {
+  text-align: center; }
+  .main2 .acerca-de .foto {
+    margin-top: -60px; }
+    .main2 .acerca-de .foto img {
+      border-radius: 50%;
+      vertical-align: top;
+      border: 5px solid rgba(255, 255, 255, 0.2); }
+
+
+
+
+
+
+/*# sourceMappingURL=estilos.css.map */
